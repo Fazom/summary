@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DNhYLwfxYp+yAPGgoCBB1kxjI/4KTRlZ2IfujqMK2fuB8cxIeCRx5WX0BDWRaoSgKLViEuLMrdZKzyVnbJUgLg==",
+  "success": true,
+  "projectFilePath": "E:\\VUZ\\4Семак\\БД\\LB4ToDoList\\LB4ToDoList\\LB4ToDoList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kbely\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
