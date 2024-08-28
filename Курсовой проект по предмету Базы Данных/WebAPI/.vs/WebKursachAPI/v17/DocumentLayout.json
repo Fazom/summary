@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VUZ\\4\u0421\u0435\u043C\u0430\u043A\\\u0411\u0414\\WebKursachAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A480EE2C-7256-4698-9CB8-8D3094A30C93}|WebKursachAPI\\WebKursachAPI.csproj|e:\\vuz\\4\u0441\u0435\u043C\u0430\u043A\\\u0431\u0434\\webkursachapi\\webkursachapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A480EE2C-7256-4698-9CB8-8D3094A30C93}|WebKursachAPI\\WebKursachAPI.csproj|solutionrelative:webkursachapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A480EE2C-7256-4698-9CB8-8D3094A30C93}|WebKursachAPI\\WebKursachAPI.csproj|e:\\vuz\\4\u0441\u0435\u043C\u0430\u043A\\\u0431\u0434\\webkursachapi\\webkursachapi\\migrations\\20240530122322_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A480EE2C-7256-4698-9CB8-8D3094A30C93}|WebKursachAPI\\WebKursachAPI.csproj|solutionrelative:webkursachapi\\migrations\\20240530122322_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A480EE2C-7256-4698-9CB8-8D3094A30C93}|WebKursachAPI\\WebKursachAPI.csproj|e:\\vuz\\4\u0441\u0435\u043C\u0430\u043A\\\u0431\u0434\\webkursachapi\\webkursachapi\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A480EE2C-7256-4698-9CB8-8D3094A30C93}|WebKursachAPI\\WebKursachAPI.csproj|solutionrelative:webkursachapi\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A480EE2C-7256-4698-9CB8-8D3094A30C93}|WebKursachAPI\\WebKursachAPI.csproj|e:\\vuz\\4\u0441\u0435\u043C\u0430\u043A\\\u0431\u0434\\webkursachapi\\webkursachapi\\models\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A480EE2C-7256-4698-9CB8-8D3094A30C93}|WebKursachAPI\\WebKursachAPI.csproj|solutionrelative:webkursachapi\\models\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A480EE2C-7256-4698-9CB8-8D3094A30C93}|WebKursachAPI\\WebKursachAPI.csproj|e:\\vuz\\4\u0441\u0435\u043C\u0430\u043A\\\u0431\u0434\\webkursachapi\\webkursachapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A480EE2C-7256-4698-9CB8-8D3094A30C93}|WebKursachAPI\\WebKursachAPI.csproj|solutionrelative:webkursachapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A480EE2C-7256-4698-9CB8-8D3094A30C93}|WebKursachAPI\\WebKursachAPI.csproj|e:\\vuz\\4\u0441\u0435\u043C\u0430\u043A\\\u0431\u0434\\webkursachapi\\webkursachapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A480EE2C-7256-4698-9CB8-8D3094A30C93}|WebKursachAPI\\WebKursachAPI.csproj|solutionrelative:webkursachapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A480EE2C-7256-4698-9CB8-8D3094A30C93}|WebKursachAPI\\WebKursachAPI.csproj|e:\\vuz\\4\u0441\u0435\u043C\u0430\u043A\\\u0431\u0434\\webkursachapi\\webkursachapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A480EE2C-7256-4698-9CB8-8D3094A30C93}|WebKursachAPI\\WebKursachAPI.csproj|solutionrelative:webkursachapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A480EE2C-7256-4698-9CB8-8D3094A30C93}|WebKursachAPI\\WebKursachAPI.csproj|e:\\vuz\\4\u0441\u0435\u043C\u0430\u043A\\\u0431\u0434\\webkursachapi\\webkursachapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A480EE2C-7256-4698-9CB8-8D3094A30C93}|WebKursachAPI\\WebKursachAPI.csproj|solutionrelative:webkursachapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\VUZ\\4\u0421\u0435\u043C\u0430\u043A\\\u0411\u0414\\WebKursachAPI\\WebKursachAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebKursachAPI\\Models\\Product.cs",
+              "ToolTip": "E:\\VUZ\\4\u0421\u0435\u043C\u0430\u043A\\\u0411\u0414\\WebKursachAPI\\WebKursachAPI\\Models\\Product.cs",
+              "RelativeToolTip": "WebKursachAPI\\Models\\Product.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:14:58.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\VUZ\\4\u0421\u0435\u043C\u0430\u043A\\\u0411\u0414\\WebKursachAPI\\WebKursachAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebKursachAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\VUZ\\4\u0421\u0435\u043C\u0430\u043A\\\u0411\u0414\\WebKursachAPI\\WebKursachAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebKursachAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:19:37.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\VUZ\\4\u0421\u0435\u043C\u0430\u043A\\\u0411\u0414\\WebKursachAPI\\WebKursachAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebKursachAPI\\appsettings.json",
+              "ToolTip": "E:\\VUZ\\4\u0421\u0435\u043C\u0430\u043A\\\u0411\u0414\\WebKursachAPI\\WebKursachAPI\\appsettings.json",
+              "RelativeToolTip": "WebKursachAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-30T12:15:57.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\VUZ\\4\u0421\u0435\u043C\u0430\u043A\\\u0411\u0414\\WebKursachAPI\\WebKursachAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebKursachAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\VUZ\\4\u0421\u0435\u043C\u0430\u043A\\\u0411\u0414\\WebKursachAPI\\WebKursachAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebKursachAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:15:42.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VUZ\\4\u0421\u0435\u043C\u0430\u043A\\\u0411\u0414\\WebKursachAPI\\WebKursachAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebKursachAPI\\Program.cs",
+              "ToolTip": "E:\\VUZ\\4\u0421\u0435\u043C\u0430\u043A\\\u0411\u0414\\WebKursachAPI\\WebKursachAPI\\Program.cs",
+              "RelativeToolTip": "WebKursachAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:13:34.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "E:\\VUZ\\4\u0421\u0435\u043C\u0430\u043A\\\u0411\u0414\\WebKursachAPI\\WebKursachAPI\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "WebKursachAPI\\Controllers\\BasketController.cs",
+              "ToolTip": "E:\\VUZ\\4\u0421\u0435\u043C\u0430\u043A\\\u0411\u0414\\WebKursachAPI\\WebKursachAPI\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "WebKursachAPI\\Controllers\\BasketController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAkwCwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:56:26.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Basket.cs",
+              "DocumentMoniker": "E:\\VUZ\\4\u0421\u0435\u043C\u0430\u043A\\\u0411\u0414\\WebKursachAPI\\WebKursachAPI\\Models\\Basket.cs",
+              "RelativeDocumentMoniker": "WebKursachAPI\\Models\\Basket.cs",
+              "ToolTip": "E:\\VUZ\\4\u0421\u0435\u043C\u0430\u043A\\\u0411\u0414\\WebKursachAPI\\WebKursachAPI\\Models\\Basket.cs",
+              "RelativeToolTip": "WebKursachAPI\\Models\\Basket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:55:07.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240530122322_InitialCreate.cs",
+              "DocumentMoniker": "E:\\VUZ\\4\u0421\u0435\u043C\u0430\u043A\\\u0411\u0414\\WebKursachAPI\\WebKursachAPI\\Migrations\\20240530122322_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebKursachAPI\\Migrations\\20240530122322_InitialCreate.cs",
+              "ToolTip": "E:\\VUZ\\4\u0421\u0435\u043C\u0430\u043A\\\u0411\u0414\\WebKursachAPI\\WebKursachAPI\\Migrations\\20240530122322_InitialCreate.cs",
+              "RelativeToolTip": "WebKursachAPI\\Migrations\\20240530122322_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:23:22.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

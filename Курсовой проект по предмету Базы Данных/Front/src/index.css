@@ -1,0 +1,149 @@
+
+
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+.hea {
+  font-family: Arial, sans-serif;
+  color: #333;
+  font-size: 52px;
+}
+
+body {
+  background-color: #e3fee2;
+}
+button {
+  display: inline-block;
+  background-color: #51a5ff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+form {
+  width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="password"],
+input[type="email"],
+textarea {
+  width: 30%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+textarea {
+  resize: vertical;
+}
+
+input[type="submit"] {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+p {
+  font-family: "Arial", sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.card {
+  background-color: white;
+  width: 18rem;
+  margin: 10px;
+}
+
+.card-title {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.card-img-top {
+  height: 150px;
+  object-fit: cover;
+}
+
+
+.button-group {
+  margin-bottom: 10px;
+}
+
+.button-group button {
+  margin-top: 10px;
+}
+
+.button-group button:last-child {
+  margin-right: 0;
+}
+
+
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.product-card {
+  display: flex;
+  width: 300px;
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.product-image {
+  width: 150px;
+  height: 150px;
+  object-fit: top;
+}
+
+.product-details {
+  padding: 20px;
+}
+
+.product-name {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.product-description {
+  margin-bottom: 10px;
+}
+
+.product-price {
+  font-weight: bold;
+}
+
+.product-quantity {
+  margin-top: 10px;
+}
