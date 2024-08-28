@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LB13.props" />
+</Project>
